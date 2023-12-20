@@ -1,0 +1,15 @@
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\2- Dominando os Operadores\bin\Debug\net8.0\2- Dominando os Operadores.exe
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\2- Dominando os Operadores\bin\Debug\net8.0\2- Dominando os Operadores.deps.json
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\2- Dominando os Operadores\bin\Debug\net8.0\2- Dominando os Operadores.runtimeconfig.json
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\2- Dominando os Operadores\bin\Debug\net8.0\2- Dominando os Operadores.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\2- Dominando os Operadores\bin\Debug\net8.0\2- Dominando os Operadores.pdb
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\2- Dominando os Operadores\obj\Debug\net8.0\2- Dominando os Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\2- Dominando os Operadores\obj\Debug\net8.0\2- Dominando os Operadores.AssemblyInfoInputs.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\2- Dominando os Operadores\obj\Debug\net8.0\2- Dominando os Operadores.AssemblyInfo.cs
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\2- Dominando os Operadores\obj\Debug\net8.0\2- Dominando os Operadores.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\2- Dominando os Operadores\obj\Debug\net8.0\2- Dominando os Operadores.sourcelink.json
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\2- Dominando os Operadores\obj\Debug\net8.0\2- Dominando os Operadores.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\2- Dominando os Operadores\obj\Debug\net8.0\refint\2- Dominando os Operadores.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\2- Dominando os Operadores\obj\Debug\net8.0\2- Dominando os Operadores.pdb
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\2- Dominando os Operadores\obj\Debug\net8.0\2- Dominando os Operadores.genruntimeconfig.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\2- Dominando os Operadores\obj\Debug\net8.0\ref\2- Dominando os Operadores.dll
