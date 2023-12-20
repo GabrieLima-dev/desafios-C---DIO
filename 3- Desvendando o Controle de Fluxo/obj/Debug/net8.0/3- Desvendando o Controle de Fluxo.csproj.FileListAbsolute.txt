@@ -1,0 +1,15 @@
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\3- Desvendando o Controle de Fluxo\bin\Debug\net8.0\3- Desvendando o Controle de Fluxo.exe
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\3- Desvendando o Controle de Fluxo\bin\Debug\net8.0\3- Desvendando o Controle de Fluxo.deps.json
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\3- Desvendando o Controle de Fluxo\bin\Debug\net8.0\3- Desvendando o Controle de Fluxo.runtimeconfig.json
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\3- Desvendando o Controle de Fluxo\bin\Debug\net8.0\3- Desvendando o Controle de Fluxo.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\3- Desvendando o Controle de Fluxo\bin\Debug\net8.0\3- Desvendando o Controle de Fluxo.pdb
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\3- Desvendando o Controle de Fluxo\obj\Debug\net8.0\3- Desvendando o Controle de Fluxo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\3- Desvendando o Controle de Fluxo\obj\Debug\net8.0\3- Desvendando o Controle de Fluxo.AssemblyInfoInputs.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\3- Desvendando o Controle de Fluxo\obj\Debug\net8.0\3- Desvendando o Controle de Fluxo.AssemblyInfo.cs
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\3- Desvendando o Controle de Fluxo\obj\Debug\net8.0\3- Desvendando o Controle de Fluxo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\3- Desvendando o Controle de Fluxo\obj\Debug\net8.0\3- Desvendando o Controle de Fluxo.sourcelink.json
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\3- Desvendando o Controle de Fluxo\obj\Debug\net8.0\3- Desvendando o Controle de Fluxo.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\3- Desvendando o Controle de Fluxo\obj\Debug\net8.0\refint\3- Desvendando o Controle de Fluxo.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\3- Desvendando o Controle de Fluxo\obj\Debug\net8.0\3- Desvendando o Controle de Fluxo.pdb
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\3- Desvendando o Controle de Fluxo\obj\Debug\net8.0\3- Desvendando o Controle de Fluxo.genruntimeconfig.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\3- Desvendando o Controle de Fluxo\obj\Debug\net8.0\ref\3- Desvendando o Controle de Fluxo.dll
