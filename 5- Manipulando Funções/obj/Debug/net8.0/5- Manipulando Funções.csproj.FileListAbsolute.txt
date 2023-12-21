@@ -1,0 +1,15 @@
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\5- Manipulando Funções\bin\Debug\net8.0\5- Manipulando Funções.exe
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\5- Manipulando Funções\bin\Debug\net8.0\5- Manipulando Funções.deps.json
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\5- Manipulando Funções\bin\Debug\net8.0\5- Manipulando Funções.runtimeconfig.json
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\5- Manipulando Funções\bin\Debug\net8.0\5- Manipulando Funções.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\5- Manipulando Funções\bin\Debug\net8.0\5- Manipulando Funções.pdb
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\5- Manipulando Funções\obj\Debug\net8.0\5- Manipulando Funções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\5- Manipulando Funções\obj\Debug\net8.0\5- Manipulando Funções.AssemblyInfoInputs.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\5- Manipulando Funções\obj\Debug\net8.0\5- Manipulando Funções.AssemblyInfo.cs
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\5- Manipulando Funções\obj\Debug\net8.0\5- Manipulando Funções.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\5- Manipulando Funções\obj\Debug\net8.0\5- Manipulando Funções.sourcelink.json
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\5- Manipulando Funções\obj\Debug\net8.0\5- Manipulando Funções.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\5- Manipulando Funções\obj\Debug\net8.0\refint\5- Manipulando Funções.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\5- Manipulando Funções\obj\Debug\net8.0\5- Manipulando Funções.pdb
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\5- Manipulando Funções\obj\Debug\net8.0\5- Manipulando Funções.genruntimeconfig.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\5- Manipulando Funções\obj\Debug\net8.0\ref\5- Manipulando Funções.dll
