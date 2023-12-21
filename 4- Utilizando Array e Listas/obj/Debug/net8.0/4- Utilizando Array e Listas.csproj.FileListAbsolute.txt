@@ -1,0 +1,15 @@
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\4- Utilizando Array e Listas\bin\Debug\net8.0\4- Utilizando Array e Listas.exe
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\4- Utilizando Array e Listas\bin\Debug\net8.0\4- Utilizando Array e Listas.deps.json
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\4- Utilizando Array e Listas\bin\Debug\net8.0\4- Utilizando Array e Listas.runtimeconfig.json
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\4- Utilizando Array e Listas\bin\Debug\net8.0\4- Utilizando Array e Listas.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\4- Utilizando Array e Listas\bin\Debug\net8.0\4- Utilizando Array e Listas.pdb
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\4- Utilizando Array e Listas\obj\Debug\net8.0\4- Utilizando Array e Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\4- Utilizando Array e Listas\obj\Debug\net8.0\4- Utilizando Array e Listas.AssemblyInfoInputs.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\4- Utilizando Array e Listas\obj\Debug\net8.0\4- Utilizando Array e Listas.AssemblyInfo.cs
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\4- Utilizando Array e Listas\obj\Debug\net8.0\4- Utilizando Array e Listas.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\4- Utilizando Array e Listas\obj\Debug\net8.0\4- Utilizando Array e Listas.sourcelink.json
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\4- Utilizando Array e Listas\obj\Debug\net8.0\4- Utilizando Array e Listas.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\4- Utilizando Array e Listas\obj\Debug\net8.0\refint\4- Utilizando Array e Listas.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\4- Utilizando Array e Listas\obj\Debug\net8.0\4- Utilizando Array e Listas.pdb
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\4- Utilizando Array e Listas\obj\Debug\net8.0\4- Utilizando Array e Listas.genruntimeconfig.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C---DIO\4- Utilizando Array e Listas\obj\Debug\net8.0\ref\4- Utilizando Array e Listas.dll
