@@ -1,0 +1,15 @@
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\6- Primeiro Desafio com POO\bin\Debug\net8.0\6- Primeiro Desafio com POO.exe
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\6- Primeiro Desafio com POO\bin\Debug\net8.0\6- Primeiro Desafio com POO.deps.json
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\6- Primeiro Desafio com POO\bin\Debug\net8.0\6- Primeiro Desafio com POO.runtimeconfig.json
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\6- Primeiro Desafio com POO\bin\Debug\net8.0\6- Primeiro Desafio com POO.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\6- Primeiro Desafio com POO\bin\Debug\net8.0\6- Primeiro Desafio com POO.pdb
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\6- Primeiro Desafio com POO\obj\Debug\net8.0\6- Primeiro Desafio com POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\6- Primeiro Desafio com POO\obj\Debug\net8.0\6- Primeiro Desafio com POO.AssemblyInfoInputs.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\6- Primeiro Desafio com POO\obj\Debug\net8.0\6- Primeiro Desafio com POO.AssemblyInfo.cs
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\6- Primeiro Desafio com POO\obj\Debug\net8.0\6- Primeiro Desafio com POO.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\6- Primeiro Desafio com POO\obj\Debug\net8.0\6- Primeiro Desafio com POO.sourcelink.json
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\6- Primeiro Desafio com POO\obj\Debug\net8.0\6- Primeiro Desafio com POO.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\6- Primeiro Desafio com POO\obj\Debug\net8.0\refint\6- Primeiro Desafio com POO.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\6- Primeiro Desafio com POO\obj\Debug\net8.0\6- Primeiro Desafio com POO.pdb
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\6- Primeiro Desafio com POO\obj\Debug\net8.0\6- Primeiro Desafio com POO.genruntimeconfig.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\6- Primeiro Desafio com POO\obj\Debug\net8.0\ref\6- Primeiro Desafio com POO.dll
