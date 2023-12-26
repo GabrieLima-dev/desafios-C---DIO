@@ -1,0 +1,15 @@
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\8- Criando um Objeto com Atributos\bin\Debug\net8.0\8- Criando um Objeto com Atributos.exe
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\8- Criando um Objeto com Atributos\bin\Debug\net8.0\8- Criando um Objeto com Atributos.deps.json
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\8- Criando um Objeto com Atributos\bin\Debug\net8.0\8- Criando um Objeto com Atributos.runtimeconfig.json
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\8- Criando um Objeto com Atributos\bin\Debug\net8.0\8- Criando um Objeto com Atributos.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\8- Criando um Objeto com Atributos\bin\Debug\net8.0\8- Criando um Objeto com Atributos.pdb
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\8- Criando um Objeto com Atributos\obj\Debug\net8.0\8- Criando um Objeto com Atributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\8- Criando um Objeto com Atributos\obj\Debug\net8.0\8- Criando um Objeto com Atributos.AssemblyInfoInputs.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\8- Criando um Objeto com Atributos\obj\Debug\net8.0\8- Criando um Objeto com Atributos.AssemblyInfo.cs
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\8- Criando um Objeto com Atributos\obj\Debug\net8.0\8- Criando um Objeto com Atributos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\8- Criando um Objeto com Atributos\obj\Debug\net8.0\8- Criando um Objeto com Atributos.sourcelink.json
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\8- Criando um Objeto com Atributos\obj\Debug\net8.0\8- Criando um Objeto com Atributos.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\8- Criando um Objeto com Atributos\obj\Debug\net8.0\refint\8- Criando um Objeto com Atributos.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\8- Criando um Objeto com Atributos\obj\Debug\net8.0\8- Criando um Objeto com Atributos.pdb
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\8- Criando um Objeto com Atributos\obj\Debug\net8.0\8- Criando um Objeto com Atributos.genruntimeconfig.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\8- Criando um Objeto com Atributos\obj\Debug\net8.0\ref\8- Criando um Objeto com Atributos.dll
