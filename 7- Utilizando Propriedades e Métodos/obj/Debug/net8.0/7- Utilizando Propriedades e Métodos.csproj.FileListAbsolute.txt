@@ -1,0 +1,15 @@
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\7- Utilizando Propriedades e Métodos\bin\Debug\net8.0\7- Utilizando Propriedades e Métodos.exe
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\7- Utilizando Propriedades e Métodos\bin\Debug\net8.0\7- Utilizando Propriedades e Métodos.deps.json
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\7- Utilizando Propriedades e Métodos\bin\Debug\net8.0\7- Utilizando Propriedades e Métodos.runtimeconfig.json
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\7- Utilizando Propriedades e Métodos\bin\Debug\net8.0\7- Utilizando Propriedades e Métodos.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\7- Utilizando Propriedades e Métodos\bin\Debug\net8.0\7- Utilizando Propriedades e Métodos.pdb
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\7- Utilizando Propriedades e Métodos\obj\Debug\net8.0\7- Utilizando Propriedades e Métodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\7- Utilizando Propriedades e Métodos\obj\Debug\net8.0\7- Utilizando Propriedades e Métodos.AssemblyInfoInputs.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\7- Utilizando Propriedades e Métodos\obj\Debug\net8.0\7- Utilizando Propriedades e Métodos.AssemblyInfo.cs
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\7- Utilizando Propriedades e Métodos\obj\Debug\net8.0\7- Utilizando Propriedades e Métodos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\7- Utilizando Propriedades e Métodos\obj\Debug\net8.0\7- Utilizando Propriedades e Métodos.sourcelink.json
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\7- Utilizando Propriedades e Métodos\obj\Debug\net8.0\7- Utilizando Propriedades e Métodos.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\7- Utilizando Propriedades e Métodos\obj\Debug\net8.0\refint\7- Utilizando Propriedades e Métodos.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\7- Utilizando Propriedades e Métodos\obj\Debug\net8.0\7- Utilizando Propriedades e Métodos.pdb
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\7- Utilizando Propriedades e Métodos\obj\Debug\net8.0\7- Utilizando Propriedades e Métodos.genruntimeconfig.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\7- Utilizando Propriedades e Métodos\obj\Debug\net8.0\ref\7- Utilizando Propriedades e Métodos.dll
