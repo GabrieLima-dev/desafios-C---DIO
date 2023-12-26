@@ -1,0 +1,15 @@
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\9- Utilizando Construtores\bin\Debug\net8.0\9- Utilizando Construtores.exe
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\9- Utilizando Construtores\bin\Debug\net8.0\9- Utilizando Construtores.deps.json
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\9- Utilizando Construtores\bin\Debug\net8.0\9- Utilizando Construtores.runtimeconfig.json
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\9- Utilizando Construtores\bin\Debug\net8.0\9- Utilizando Construtores.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\9- Utilizando Construtores\bin\Debug\net8.0\9- Utilizando Construtores.pdb
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\9- Utilizando Construtores\obj\Debug\net8.0\9- Utilizando Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\9- Utilizando Construtores\obj\Debug\net8.0\9- Utilizando Construtores.AssemblyInfoInputs.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\9- Utilizando Construtores\obj\Debug\net8.0\9- Utilizando Construtores.AssemblyInfo.cs
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\9- Utilizando Construtores\obj\Debug\net8.0\9- Utilizando Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\9- Utilizando Construtores\obj\Debug\net8.0\9- Utilizando Construtores.sourcelink.json
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\9- Utilizando Construtores\obj\Debug\net8.0\9- Utilizando Construtores.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\9- Utilizando Construtores\obj\Debug\net8.0\refint\9- Utilizando Construtores.dll
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\9- Utilizando Construtores\obj\Debug\net8.0\9- Utilizando Construtores.pdb
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\9- Utilizando Construtores\obj\Debug\net8.0\9- Utilizando Construtores.genruntimeconfig.cache
+C:\Users\Gabriel Lima\Desktop\desafios-C-Sharp-DIO\9- Utilizando Construtores\obj\Debug\net8.0\ref\9- Utilizando Construtores.dll
